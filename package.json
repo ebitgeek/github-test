@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ebitgeek/github-test#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   }
