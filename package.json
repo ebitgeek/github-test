@@ -1,0 +1,23 @@
+{
+  "name": "github-test",
+  "version": "1.0.0",
+  "description": "第一个git仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebitgeek/github-test.git"
+  },
+  "author": "ebitgeek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebitgeek/github-test/issues"
+  },
+  "homepage": "https://github.com/ebitgeek/github-test#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
